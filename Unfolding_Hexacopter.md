@@ -6,7 +6,12 @@ Diagram with Part Labels
 
 These are the reference directions for the drone which are referenced throughout this guide
 
+<img width="383" height="535" alt="image" src="https://github.com/user-attachments/assets/48765ad2-ee57-49d6-a781-17a7744f3ff4" />
+
 These are the labels for the 3 important screws for each arm (each of these screws are labeled for 2 arms)
+
+<img width="527" height="386" alt="image" src="https://github.com/user-attachments/assets/dd31f786-3105-4f7d-91c7-bac9656b0cea" />
+
 
 **Steps**
 
