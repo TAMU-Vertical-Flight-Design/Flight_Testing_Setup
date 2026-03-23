@@ -1,4 +1,4 @@
-# Electromagnet Checklist
+# Electromagnet Setup
 
 For the ARDUPILOT and Transmitter set up, they should already be configured, but if not the steps for setup are below.
 
