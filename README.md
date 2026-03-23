@@ -16,3 +16,5 @@ Step 4. Connect shunt plug, use caution. Note it is expected to hear a small pop
 [Step 6.](RTK_and_BaseStation_Setup.md) Setup RTK and configure the base station.
 
 Step 7. Run spin test and verify the propellors spin the right direction. 
+
+Note, this tutorial is not completed as of 3/22/26. Take caution when preparing for flight testing. 
