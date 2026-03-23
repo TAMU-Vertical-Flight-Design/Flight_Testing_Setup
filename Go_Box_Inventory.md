@@ -13,7 +13,7 @@
 		- USB C dongle
    - **ID 29 SICK radio (Rev3)**
    - **ID 99 SICK radio (Mini-Rev)**
-   - Battery Checker
+   - **Battery Checker**
    - Extra Mosfet
    - Multimeter
 4. Tool Box
