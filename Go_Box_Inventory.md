@@ -17,8 +17,9 @@
    - Extra Mosfet
    - Multimeter
 4. Shunt plug
-5. Battery Straps
-6. Tool Box
+5. Battery straps
+6. Payload stands
+7. Tool Box
    - Files X3
    - **Screw Drivers**
    - **Allenkey sets**
@@ -28,16 +29,16 @@
    - Scissors
    - Tape Measure
    - Ani knife
-7. Battery Bag
+8. Battery Bag
    - Big battery
    - Lil battery
-8. Tape
+9. Tape
    - Duck Tape
    - Electrical Tape
    - Double sided Tape
-9. **TARANIS Transmitter**
-10. Zip ties
-11. **Safety Glasses**
-12. **RTK Base Station**
-13. Sharpy and Paint Maker
+10. **TARANIS Transmitter**
+11. Zip ties
+12. **Safety Glasses**
+13. **RTK Base Station**
+14. Sharpy and Paint Maker
 
