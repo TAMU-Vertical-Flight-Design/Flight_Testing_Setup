@@ -34,7 +34,9 @@ Step 12. Select "COM10" on the dropdown in the right hand corner. Note this isn'
 
 Step 13. Check the "Automatically Configure Reciever" box. A new menu should show up with the capability to configure the base station, select the "Ublox M8P / F9P" dropdown.
 
-Step 11. Type desired GPS position accuracy into the "Survey in acc (typically 2m)" box, then click "Restart" to configure the base station. Note expect somewhere between 5 - 10 minutes for the configuration of the base station. The progress of the base station convergence can be tracked in the box on the right hand side of the screen. 
+Step 11. Type desired GPS position accuracy into the "Survey in acc (typically 2m)" box, this is the global position uncertainty of the base station not the relative uncertainty between the rover and base station. 
+
+Step 12. Click "Restart" to configure the base station. Note expect somewhere between 5 - 10 minutes for the configuration of the base station. The progress of the base station convergence can be tracked in the box on the right hand side of the screen. 
 
 <img width="375" height="32" alt="image" src="https://github.com/user-attachments/assets/eaa8317c-fa81-4571-a86d-384d4e0e12b2" />
 
