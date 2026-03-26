@@ -1,6 +1,6 @@
 <h1 align="center">Go Box Inventory</h1>
 <div align="center">
- Put everything you take out back in when done!
+ PUT EVERYTHING YOU TAKE OUT BACK IN WHEN DONE
 </div>
 
 1. Props box
@@ -37,6 +37,8 @@
 10. **RTK antenna stand**
 11. **Shunt plug**
 12. **Battery straps**
+
+
     
 ## Important things not in Go Box
 1. Battery Bag
