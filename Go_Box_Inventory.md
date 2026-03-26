@@ -14,31 +14,39 @@
    - **ID 29 SICK radio (Rev3)**
    - **ID 99 SICK radio (Mini-Rev)**
    - **Battery Checker**
-   - Extra Mosfet
    - Multimeter
-4. Shunt plug
-5. Battery straps
-6. Payload stands
-7. Tool Box
+   - **RTK here+ Base station**
+5. Tool Box
    - Files X3
    - **Screw Drivers**
    - **Allenkey sets**
-   - Crescent Wrench
+   - Crescent Wrenches
    - **Pliers**
    - IFIXIT KIT
    - Scissors
    - Tape Measure
    - Ani knife
-8. Battery Bag
-   - Big battery
-   - Lil battery
-9. Tape
+6. Tape
    - Duck Tape
-   - Electrical Tape
+   - Electrical Tape (assorted colors)
    - Double sided Tape
-10. **TARANIS Transmitter**
-11. Zip ties
-12. **Safety Glasses**
-13. **RTK Base Station**
-14. Sharpy and Paint Maker
-
+   - scotch tape 
+7. Zip ties
+8. **Safety Glasses**
+9. Sharpy and Paint Maker
+10. **RTK antenna stand**
+11. **Shunt plug**
+12. **Battery straps**
+    
+## Important things not in Go Box
+1. Battery Bag
+   - **14000mAh battery (big blue)**
+   - **2200mAh battery x3 (green and black, two 4s and one 3s)**
+   - Battery Checker
+2. **TARANIS Transmitter**
+3. Payload Cooler
+   - Sand bags
+   - Sand
+   - **Payloads**
+   - **Payload stands**
+   - **Payload funnel**
