@@ -51,3 +51,6 @@
    - **Payloads**
    - **Payload stands**
    - **Payload funnel**
+  
+     
+[Go Box Inventory.pdf](https://github.com/user-attachments/files/26260263/Go.Box.Inventory.pdf)
