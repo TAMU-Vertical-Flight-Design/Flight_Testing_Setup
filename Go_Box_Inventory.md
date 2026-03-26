@@ -3,9 +3,14 @@
  PUT EVERYTHING YOU TAKE OUT BACK IN WHEN DONE
 </div>
 
+*Note - Do not forget Mini Rev and Rev 3**
+
+**Note - Do not forget cooler with payload delivery items**
+
 1. Props box
    - **Rev3 props**
-   - **Rev-Mini pros**
+   - **Rev-Mini props**
+   - **Rev-Mini motor mounts, attached to propellors**
 2. Electronics Box
 	- Wires
 		- **USBA - Micro B cable X2**
