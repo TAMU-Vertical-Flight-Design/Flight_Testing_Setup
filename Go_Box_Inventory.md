@@ -3,7 +3,7 @@
  PUT EVERYTHING YOU TAKE OUT BACK IN WHEN DONE
 </div>
 
-*Note - Do not forget Mini Rev and Rev 3**
+**Note - Do not forget Mini Rev and Rev 3**
 
 **Note - Do not forget cooler with payload delivery items**
 
