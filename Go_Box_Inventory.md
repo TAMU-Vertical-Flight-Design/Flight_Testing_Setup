@@ -38,6 +38,7 @@
 11. **Shunt plug**
 12. **Battery straps**
 <div style="page-break-after: always;"></div>
+
 ## Important things not in Go Box
 1. Battery Bag
    - **14000mAh battery (big blue)**
