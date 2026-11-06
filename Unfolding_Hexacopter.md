@@ -1,6 +1,6 @@
 **Unfolding Steps**
 
-The video tutorial can be found [here](https://tamucs.sharepoint.com/teams/Team-TAMUVFD/_layouts/15/stream.aspx?id=%2Fteams%2FTeam-TAMUVFD%2FShared+Documents%2F04.+Structures%2FUnfolding+Tutorial+%28VFD%29.mp4&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.7537a4cb-89b0-4ba2-bb23-a55053b849f8)
+The video tutorial can be found [here](https://tamucs.sharepoint.com/:v:/r/teams/Team-TAMUVFD/Shared%20Documents/Z1.%20Archive/STRUCTURES%20DBVF%202025-2026/Unfolding%20Tutorial%20(VFD).mp4?d=w7353c05be8164edf9d45ff6f3f542d5a&csf=1&web=1&e=AJh5q8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Diagram with Part Labels
 
